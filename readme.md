@@ -26,11 +26,17 @@ node solution.js > results.txt
 Code Index
 
 1 = > address check
+
 2 = > name check 
+
 3 = > email check 
+
 4 = > driver licence num without XXX 
+
 5 = > dob 
+
 6 = > gender 
+
 7 = > Phone 
 
 Supply input as checks which need to be passed 
